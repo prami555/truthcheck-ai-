@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Truth Check AI",
+  "description": "An AI-powered fact-checking tool that analyzes statements for factual accuracy, provides a clear verdict, a detailed explanation, and cites reliable sources using Google Search grounding with the Gemini API.",
+  "requestFramePermissions": []
+}
